@@ -41,7 +41,7 @@ python proj.py --output JSON --api_key GROQ_API_KEY --file_path path/to/security
 ![image](https://github.com/user-attachments/assets/8ac94162-4302-4913-8e9f-d8df915fd499)
 
 
-### Option 2: UI Output Mode
+### Option 2: UI Mode
 ```bash
 python proj.py --output UI --api_key GROQ_API_KEY --file_path path/to/security_events.csv
 ```
