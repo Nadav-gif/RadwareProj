@@ -33,7 +33,7 @@ When running the project, you must provide the following **three required argume
 | `--api_key`    | Your API key for authenticating with the LLM (Groq) API.                    |
 | `--file_path`  | Path to the WAF log CSV file you want to analyze.
 
-### Option 1: Streamlit JSON Mode
+### Option 1: JSON Mode
 ```bash
 python proj.py --output JSON --api_key GROQ_API_KEY --file_path path/to/security_events.csv
 ```
