@@ -7,8 +7,8 @@ The tool analyzes Web Application Firewall (WAF) logs to detect and summarize ma
 ## 📌 Features
 - **Log Filtering**: Removes false positives and low-severity incidents, and detects significant attacks like multi-step sequences.
 - **LLM Integration (Groq API)**: Generates natural-language summaries of attacker behavior and mitigation strategy.
-- **Interactive Streamlit Dashboard**: Visualize attacker stories and filter by IP.
 - **JSON Mode**: Console-based mode for structured output in automation-friendly format.
+- **Interactive Streamlit Dashboard**: Visualize attacker stories and filter by IP.
 
 ---
 
