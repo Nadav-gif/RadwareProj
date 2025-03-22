@@ -1,6 +1,6 @@
 # 🔐 WAF Log Analyzer with LLM-Powered Attack Summarization
 
-The tool analyzes Web Application Firewall (WAF) logs to detect and summarize malicious activity, using rule-based filtering and a Large Language Model (LLM).
+**WAF-Analyzer** investigates Web Application Firewall (WAF) logs to detect and summarize malicious activity, using rule-based filtering and a Large Language Model (LLM).
 
 ---
 
